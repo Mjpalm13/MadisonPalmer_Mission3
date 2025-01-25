@@ -12,3 +12,4 @@
 /Users/mac/RiderProjects/IS 413/Mission2_MadisonPalmer/obj/Debug/net9.0/Mission2_MadisonPalmer.pdb
 /Users/mac/RiderProjects/IS 413/Mission2_MadisonPalmer/obj/Debug/net9.0/Mission2_MadisonPalmer.genruntimeconfig.cache
 /Users/mac/RiderProjects/IS 413/Mission2_MadisonPalmer/obj/Debug/net9.0/ref/Mission2_MadisonPalmer.dll
+/Users/mac/RiderProjects/IS 413/Mission2_MadisonPalmer/obj/Debug/net9.0/Mission2_MadisonPalmer.sourcelink.json

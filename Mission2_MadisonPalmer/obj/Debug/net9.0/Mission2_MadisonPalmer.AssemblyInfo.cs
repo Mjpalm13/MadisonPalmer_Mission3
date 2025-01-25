@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission2_MadisonPalmer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1765306eb690a98157964a506c23c533e6867d27")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission2_MadisonPalmer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission2_MadisonPalmer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
