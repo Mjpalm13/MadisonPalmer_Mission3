@@ -6,7 +6,7 @@ internal static class Program
     {
         // Import RandArray class
         var ar = new RandArray();
-
+        
         // Gather user input with validation
         Console.WriteLine("Welcome to the dice throwing simulator!\n\nHow many rolls would you like to simulate?");
         int numRolls;
