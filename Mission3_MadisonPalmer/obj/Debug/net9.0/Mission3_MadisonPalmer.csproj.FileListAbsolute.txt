@@ -1,0 +1,15 @@
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/bin/Debug/net9.0/Mission3_MadisonPalmer
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/bin/Debug/net9.0/Mission3_MadisonPalmer.deps.json
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/bin/Debug/net9.0/Mission3_MadisonPalmer.runtimeconfig.json
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/bin/Debug/net9.0/Mission3_MadisonPalmer.dll
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/bin/Debug/net9.0/Mission3_MadisonPalmer.pdb
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.AssemblyInfo.cs
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.sourcelink.json
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.dll
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/refint/Mission3_MadisonPalmer.dll
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.pdb
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/Mission3_MadisonPalmer.genruntimeconfig.cache
+/Users/mac/RiderProjects/IS 413/Mission3_MadisonPalmer/obj/Debug/net9.0/ref/Mission3_MadisonPalmer.dll
